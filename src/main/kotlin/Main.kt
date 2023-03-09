@@ -4,6 +4,6 @@ fun main() {
 
     val chicago = Chicago()
 
-    println(chicago.jugar("Victor", "Jorge", 6))
+    println(chicago.jugar_chicago("Victor", "Jorge"))
 
 }
